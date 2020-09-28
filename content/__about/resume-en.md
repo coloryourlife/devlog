@@ -8,6 +8,24 @@ lang: 'en'
 
 <div align="center">
 
-what?
+## Educations and Experiences
+University of Seoul 2015- , BS
+
+Republic Of Korea Army 2017-2018
+
+Founder of UntilBurnout(ubo) 2019-2020
+
+Project Manager at Gangnam Developers
+
+Member of dsc uos
+
+## Interests
+Computer vision
+
+Machine Learning
+
+Software Architecture
+
+Cryptography
 
 </div>
